@@ -1,2 +1,3 @@
 # AWS_Containers
-Repository for practicing with AWS, containers and black magic.
+Repository for practicing with AWS, container Services and black magic.
+
